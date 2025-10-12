@@ -102,7 +102,7 @@ After defining my provider and resource blocks for the required AWS services, I 
 5. **Access your web servers**
    After deployment, Terraform will output the deployed code into the AWS console. 
 
-6. **Apply the configuration**
+6. **Destroy deployed terraform code**
    ```bash
    terraform destroy - Destroys the Terraform-managed infrastructure. Used to tear down all resources defined in the configuration. 
 
