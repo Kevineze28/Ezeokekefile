@@ -1,0 +1,15 @@
+---
+- name: Install and Start Apache Web Server on Ubuntu
+  hosts: all
+  become: yes 
+
+  tasks:
+    - name: Update apt package cache
+      ansible.builtin.apt:
+        update_cache: yes
+        cache_valid_time: 3600
+ 
+    - name: Install Apache2 package
+      ansible.builtin.apt:
+        name: apache2
+        state: present
