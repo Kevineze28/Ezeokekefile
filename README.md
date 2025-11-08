@@ -16,7 +16,7 @@ Amazon Web Service (AWS), Infrastructure as Code (IaC), CI/CD & Automation,Conta
 
 ## 💻 Projects
 
-This repository demonstrates my hands-on practice with Infrastructure as Code (IaC) using Terraform, Ansible and  Bash scripting. 
+This repository demonstrates my hands-on practice with  using Terraform, Ansible and  Bash scripting. 
 
 It includes:
 
