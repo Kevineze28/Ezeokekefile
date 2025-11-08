@@ -3,9 +3,9 @@
 
 
 ## 🚀 About Me
-I am a motivated and detail-oriented  Cloud Engineer with hands-on experience in automating the deployment of mission-critical applications across diverse infrastructures. I have practical knowledge in supporting, optimizing, and automating application deployments on AWS using CI/CD pipelines, with a strong focus on maintaining both security and performance.
+I am a  motivated and detail-oriented  Cloud Engineer with hands-on experience in automating the deployment of mission-critical applications across diverse infrastructures. I have practical knowledge in supporting, optimizing, and automating application deployments on AWS using CI/CD pipelines, with a strong focus on maintaining both security and performance.
 
-I am passionate about DevOps solutions that accelerate software delivery. I have experience working with tools and technologies such as AWS CLI, Bash, Terraform, Docker, Kubernetes, Ansible, Git, GitHub Actions (CI/CD), Linux, and Jira. I enjoy learning new technologies and am always open to adopting tools that enhance system reliability and simplify deployment workflows.
+I am passionate about DevOps solutions that accelerate software delivery. I have experience working with tools and technologies such as AWS CLI, Bash, Terraform, Docker, Kubernetes, Ansible, Git, GitHub Actions (CI/CD), Linux, and Jira. I enjoy learning new technologies and i am always open to adopting tools that enhance system reliability and simplify deployment workflows.
 
 I am highly attentive to detail, particularly in identifying anomalies, and possess strong communication, problem-solving, and decision-making skills. I take pride in helping teams deliver projects on time, within scope, and budget. I’ve contributed to creating efficient and transparent software delivery cycles by fostering collaboration between development and operations teams.
 
