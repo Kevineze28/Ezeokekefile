@@ -75,7 +75,7 @@ The Ansible setup includes the following key components:
 <server_ip_4> ansible_user=ubuntu ansible_ssh_private_key_file=~/keys/EC2_instance_keypair.pem
 ```
 
-#🧾Playbooks.yml 
+# 🧾 Playbooks.yml 
 
 ```ini
 ---
