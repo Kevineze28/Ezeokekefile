@@ -30,7 +30,7 @@ This project automates common administrative and deployment tasks using Ansible,
 
 ---
 
-#🧱 Architecture Overview
+# 🧱 Architecture Overview
 
 The Ansible setup includes the following key components:
 
@@ -57,7 +57,7 @@ The Ansible setup includes the following key components:
 
 ---
 
-#⚙️ Configuration Files
+# ⚙️  Configuration Files
 
 ### Inventory / Hosts File
 
