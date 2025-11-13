@@ -1,12 +1,12 @@
 
-# High-Availability Server Automation with Ansible
+# 🖥️ High-Availability Server Automation with Ansible
 
 This project demonstrates how to use Ansible to automate configuration management and orchestration across multiple servers.  
 It provides a consistent and reliable way to execute ad-hoc commands on specific groups of servers and to run Ansible playbooks across an entire infrastructure — all from a single control node.
 
 ---
 
-## What It Does
+## 🚀 What It Does
 
 This project automates common administrative and deployment tasks using Ansible, including:
 
@@ -18,7 +18,7 @@ This project automates common administrative and deployment tasks using Ansible,
 
 ---
 
-##  Key Benefits
+## 💡 Key Benefits
 
 | Benefit | Description |
 |----------|-------------|
@@ -30,7 +30,7 @@ This project automates common administrative and deployment tasks using Ansible,
 
 ---
 
-## Architecture Overview
+##🧱 Architecture Overview
 
 The Ansible setup includes the following key components:
 
@@ -42,7 +42,7 @@ The Ansible setup includes the following key components:
 
 ---
 
-##  Tech Stack
+## 🧰  Tech Stack
 
 | Tool | Purpose |
 |------|----------|
@@ -57,7 +57,7 @@ The Ansible setup includes the following key components:
 
 ---
 
-##  Configuration Files
+##⚙️ Configuration Files
 
 ### Inventory / Hosts File
 
@@ -75,7 +75,7 @@ The Ansible setup includes the following key components:
 <server_ip_4> ansible_user=ubuntu ansible_ssh_private_key_file=~/keys/EC2_instance_keypair.pem
 ```
 
-### Playbooks.yml 
+###🧾Playbooks.yml 
 
 ```ini
 ---
@@ -94,7 +94,7 @@ The Ansible setup includes the following key components:
         name: apache2
         state: present
 ```
-### Summary 
+### 🏁 Summary 
 
 This project provides a scalable, consistent, and efficient automation framework using Ansible for managing multiple EC2 instances.
 It leverages Infrastructure as Code (IaC) principles to simplify deployments, ensure configuration consistency, and improve operational reliability.
