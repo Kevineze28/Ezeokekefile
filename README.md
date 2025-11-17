@@ -16,7 +16,7 @@ Amazon Web Service (AWS), Infrastructure as Code (IaC), CI/CD & Automation,Conta
 
 ## 💻 Projects
 
-Below is a summary of each project folder contains: 
+Below is a summary of what  each project folder contains: 
 
  **Terraform Folder:** The Terraform folder in my project contains infrastructure-as-code scripts I developed to automate the provisioning and configuration of AWS resources, including a secure VPC, multiple subnets across availability zones for redundancy, internet gateways and route tables for traffic routing, security groups for access control, and EC2 instances for hosting applications. By leveraging variables (such as region, CIDR blocks, instance types, and resource names) and outputs to expose key information, this project demonstrates my ability to create scalable, consistent, and maintainable cloud environments, reduce manual errors, and accelerate the deployment of production-ready infrastructure.
 
