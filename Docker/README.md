@@ -76,7 +76,7 @@ Docker simplifies what would be a time-consuming error-prone process due to the 
 - Easy portability — spin up new Jenkins instances in seconds.
 ```
 ### 🔑 Key Docker Commands Used
-The keu commnads i used in this project to run various commands on my docker container are as follows:
+The key commnads i used in this project to run various commands on my docker container are as follows:
 
 ```bash
 
