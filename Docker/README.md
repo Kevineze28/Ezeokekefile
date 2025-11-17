@@ -60,7 +60,8 @@ sudo docker pull jenkins/jenkins:lts-jdk17
  jenkins/jenkins:lts-jdk21
 ```
 3. Access Jenkins
-I was able to access the Jenkins URL page, once i saw Unlock Jenkinsa i knew the deployment was succesful. However i used the folloiwng to access Jenkins:
+
+I was able to access the Jenkins URL page, once i saw the  unlock Jenkins page, i knew the deployment was succesful. However i used the folloiwng to access Jenkins:
 ```bash
 http://<public-ip>:8080
 ```
