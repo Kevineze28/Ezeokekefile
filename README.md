@@ -39,6 +39,6 @@ If you have any feedback or questions, please reach out to me at ezeokekenonsoke
 
 ## Tech Stack
 
-**Tools:** Bash, AWS ClI, Terraform, Docker, Ansible, Git, K8s, Linux, Actions (CI/CD), Jira, GitHub, Jenkins
+**Tools:** Bash, AWS CLI, Terraform, Docker, Ansible, Git, K8s, Linux, Actions (CI/CD), Jira, GitHub, Jenkins
 
 
