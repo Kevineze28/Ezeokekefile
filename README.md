@@ -28,6 +28,10 @@ Below is a summary of what  each project folder contains:
 
 **Docker Folder:** This project demonstrates deploying a Jenkins CI/CD server on an AWS EC2 Ubuntu instance using Docker. It simplifies the traditional Jenkins setup by leveraging containerization for fast, repeatable, and consistent deployments. The project covers EC2 setup, Docker installation, running Jenkins in a container, and managing containers using Docker commands. It highlights the speed, consistency, isolation, and portability benefits of using Docker in modern DevOps workflows.
 
+**GitActions (CI/CD):** This project showcases how I designed and implemented a fully automated cloud deployment pipeline that provisions an Amazon EC2 instance using Infrastructure as Code (IaC) and CI/CD automation. By integrating GitHub Actions and Terraform, I built a streamlined workflow where every push to the main branch triggers a complete Terraform deployment.
+The pipeline securely authenticates to AWS using GitHub repository secrets and automatically performs Terraform initialization, formatting, validation, planning, and application—all without manual intervention. This ensures consistent, repeatable, and reliable infrastructure provisioning.
+The outcome is a fully automated and cloud-native deployment solution that demonstrates modern DevOps practices including version control, automated pipelines, secure credential management, and Infrastructure as Code.
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-ezeokeke-74ba1b216/)
 
