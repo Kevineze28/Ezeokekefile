@@ -159,3 +159,7 @@ In the AWS Console:
 2. Confirmed the instance named Terraform-CICD was running 
 
 This verified that the full CI/CD automation worked end-to-end.
+
+### 🏁 Conclusion
+
+This project demonstrates my ability to design, automate, and securely deploy cloud infrastructure using real-world DevOps tools and CI/CD best practices. 
